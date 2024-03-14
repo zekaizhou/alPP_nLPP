@@ -1,0 +1,5 @@
+ORL 0.01
+AR,EY 0.1
+CMU 0.4
+Yale 0.03
+coil-100 0.2
